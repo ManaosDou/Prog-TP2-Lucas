@@ -1,7 +1,9 @@
 INFORME CONFIDENCIAL
 
 Destinatario: Altos Mandos de Umbrella Corporation
+
 Remitente: Albert Wesker, Capitán de S.T.A.R.S.
+
 Asunto: Solicitud de Reprobación del Recluta Federico Perez Trench
 
 Nivel de Seguridad: Altamente clasificado
@@ -22,5 +24,7 @@ Recomendaciones
 En vista de los puntos mencionados anteriormente, solicito formalmente que el recluta Federico Perez Trench sea reprobado y removido de su posición actual. Además, sugiero que sea convertido en un experimento para aumentar su utilidad. La continuidad de nuestras operaciones depende de la actuación de personal altamente capacitado y comprometido. No podemos permitir que elementos ineficientes comprometan la misión de Umbrella Corporation.
 
 Fdo.: Albert Wesker
+
 Capitán de S.T.A.R.S.
+
 Umbrella Corporation
